@@ -263,7 +263,7 @@ hamburger menu css */
       position: sticky;
       top: 0;
   }
-@media only screen and (min-width: 650px){
+/* @media only screen and (min-width: 650px){
     .navigation{
         display: flex;
         flex-direction: row;
@@ -277,4 +277,4 @@ hamburger menu css */
     .topnav{
         display: none;
     }
-}
+} */
